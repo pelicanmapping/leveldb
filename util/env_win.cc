@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <deque>
+#include <algorithm>
 #include <process.h>
 
 #include "leveldb/env.h"
